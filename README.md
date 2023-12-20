@@ -1,49 +1,17 @@
-<h1> Aternos Uptime </h1>
+# AternosUptime
+Make your Aternos servers 24/7.
 
-<h2> Türkçe </h2>
+---
+- ✨ [For Support](https://github.com/sponsors/egehan0250) <br>
+- 🏓 [Fast Uptime](https://fastuptime.com/)<br>
+- 🪄 All kinds of projects are made <br>
+- 🧨 You can contact us to make a paid project<br>
+- ☄️ [Click For Contact](mailto:egehankontas55@gmail.com)<br>
 
-<h3> Başlangıç </h3>
+# 🎯 License 🎯
+- ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
-Package Kurulum
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="BYNCSA40"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
 
-```js
-npm init -y
-
-npm i express mineflayer
-```
-
-Sunucu Ayarları
-
-```js
-var ayar = {
-  host: "sunucuip", //Sunucu İp Adresi
-  port: 25565, //Değiştirme
-  username: "bots", //Sunucuya Gircek olan Bot
-  version: false //Değiştirme
-};
-```
-
-<h2> English </h2>
-
-<h3> Start </h3>
-
-Package Installation
-
-```js
-npm init -y
-
-npm i express mineflayer
-```
-
-Server Settings
-
-```js
-var ayar = {
-  host: "sunucuip", //Server IP Address
-  port: 25565, //Do not touch
-  username: "bots", //Bot that will enter the server
-  version: false //Do not touch
-};
-```
 
 
